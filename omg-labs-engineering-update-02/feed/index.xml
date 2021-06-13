@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: OMG Labs: Engineering Update #02	</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>OMG Layer Too Fast</description>
+	<lastBuildDate>Sat, 12 Jun 2021 09:03:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+	<item>
+		<title>
+		By: The Nose		</title>
+		<link>./../index.html#comment-330</link>
+
+		<dc:creator><![CDATA[The Nose]]></dc:creator>
+		<pubDate>Fri, 19 Mar 2021 08:54:13 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=1472#comment-330</guid>
+
+					<description><![CDATA[&lt;div class=&quot;members-access-error&quot;&gt;&#160;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;You must hold a guild token to view this content.&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;
+&lt;button class=&#039;ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large&#039; type=&#039;button&#039; name=&#039;metamask&#039;&gt;
+	Connect with OMGX
+&lt;/button&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;To acquire a guild token, you must first join the &lt;a href=&quot;https://join.omg.dev/discord&quot;&gt;OMG Discord server.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+]]></description>
+			<content:encoded><![CDATA[<div class="members-access-error">&nbsp;</p>
+<p style="text-align: center">You must hold a guild token to view this content.</p>
+<p style="text-align: center">
+<button class='ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large' type='button' name='metamask'><br />
+	Connect with OMGX<br />
+</button></p>
+<p style="text-align: center">To acquire a guild token, you must first join the <a href="https://join.omg.dev/discord">OMG Discord server.</a></p>
+</div>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Ville Niemi		</title>
+		<link>./../index.html#comment-329</link>
+
+		<dc:creator><![CDATA[Ville Niemi]]></dc:creator>
+		<pubDate>Fri, 19 Mar 2021 08:35:00 +0000</pubDate>
+		<guid isPermaLink="false">./../../index.html?p=1472#comment-329</guid>
+
+					<description><![CDATA[&lt;div class=&quot;members-access-error&quot;&gt;&#160;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;You must hold a guild token to view this content.&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;
+&lt;button class=&#039;ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large&#039; type=&#039;button&#039; name=&#039;metamask&#039;&gt;
+	Connect with OMGX
+&lt;/button&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: center&quot;&gt;To acquire a guild token, you must first join the &lt;a href=&quot;https://join.omg.dev/discord&quot;&gt;OMG Discord server.&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+]]></description>
+			<content:encoded><![CDATA[<div class="members-access-error">&nbsp;</p>
+<p style="text-align: center">You must hold a guild token to view this content.</p>
+<p style="text-align: center">
+<button class='ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large' type='button' name='metamask'><br />
+	Connect with OMGX<br />
+</button></p>
+<p style="text-align: center">To acquire a guild token, you must first join the <a href="https://join.omg.dev/discord">OMG Discord server.</a></p>
+</div>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

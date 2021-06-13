@@ -1,0 +1,58 @@
+.mpa-alert {
+    border-radius: 40px;
+    background-color: white;
+    box-shadow: 0px 0px 12px #CCCC;
+    margin-left: 30px;
+    padding: 10px 25px;
+    float: left;
+}
+
+.mpa-alert .mpa-left,.mpa-alert .mpa-right {
+    float: left;
+    margin-top: 5px;
+}
+
+.mpa-avatar {
+    width: 40px;
+}
+
+.mpa-left {
+    margin-right: 20px;
+}
+
+.mpa-description {
+    color: gray;
+    font-size: 12px;
+    margin-top: 4px;
+}
+
+.mycred-popup-alert {
+    position: fixed;
+    z-index: 9999;
+}
+
+.mpa-alert.dark_theme .mpa-description {
+    color: #dadada;
+}
+
+.mpa-alert.dark_theme {
+    background-color: #313131;
+    color: white;
+}
+
+.mpa-alert.square {
+    border-radius: 6px;
+}
+
+@media only screen and (max-width: 425px) {
+    .mycred-popup-alert {
+        max-width: calc(100% - 10px);
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+    
+    .mpa-alert {
+        margin: auto;
+    }
+}

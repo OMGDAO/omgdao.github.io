@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>OMG Quests</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../index.html</link>
+	<description>OMG Layer Too Fast</description>
+	<lastBuildDate>Sat, 12 Jun 2021 13:28:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../wp-content/uploads/2020/12/cropped-logo-32x32.png</url>
+	<title>OMG Quests</title>
+	<link>./../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Telegram Voice Chat with Alan and Jan</title>
+		<link>./../telegram-voice-chat-with-alan-and-jan/index.html</link>
+		
+		<dc:creator><![CDATA[Nebali]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 13:07:06 +0000</pubDate>
+				<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">./../index.html?p=1646</guid>
+
+					<description><![CDATA[John Keh (00:00): Welcome, everyone. Let’s just jump right into it. I’ve prepared a couple of questions that have been provided by the community, and I’m not sure how much of this Jan or Alan have looked over. So feel free to pass if need be. Otherwise, I’ll just kind of work my way through this list. Then we’ll open ... <div><a href="./../telegram-voice-chat-with-alan-and-jan/index.html" class="more-link">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[
+<h3 id="430c">John Keh (00:00):</h3>
+
+
+
+<p id="565a">Welcome, everyone. Let’s just jump right into it. I’ve prepared a couple of questions that have been provided by the community, and I’m not sure how much of this Jan or Alan have looked over. So feel free to pass if need be. Otherwise, I’ll just kind of work my way through this list. Then we’ll open up the floor to questions from the audience.</p>
+
+
+
+<p id="e8d2">Before we get started on the questions, a good way to kick off is to give a little bit of an intro for anyone who is new to the OMG community or didn’t catch the last&nbsp;<a href="https://www.youtube.com/watch?v=mNvQVfIN3Ps" target="_blank" rel="noopener">AMA on Clubhouse</a>.</p>
+
+
+
+<h3 id="f165">Alan, Jan, would you guys mind providing a quick intro about what you guys do and the background of Enya?</h3>
+
+
+
+<h3 id="91b5">Alan Chiu (00:54):</h3>
+
+
+
+<p id="6de3">Sure, happy to. Hi, I’m&nbsp;<a href="https://www.linkedin.com/in/alanchiu" target="_blank" rel="noopener">Alan Chiu</a>, CEO of&nbsp;<a href="https://enya.ai/" target="_blank" rel="noopener">Enya</a>. We’re a decentralized privacy company based in Silicon Valley. Jan and I started this company a couple of years ago, really with a goal of creating a very easy-to-use technology platform for developers to safely handle user data while still being able to extract insights from them. Really it’s about returning control of data back to the individual. My personal background before working on Enya. I spent a few years as a venture investor, graduated from Stanford Business School, and worked on a number of enterprise startups, and had a couple of exits before. So I’ve really been involved in the startup ecosystem for many years. I really enjoy building companies and creating something from nothing.</p>
+
+
+
+<h3 id="680a">Jan Liphardt (01:50):</h3>
+
+
+
+<p id="07bd">Good morning. This is Jan. I’ve been working with Alan on Enya for a few years now. At Stanford, I teach the&nbsp;<a href="https://explorecourses.stanford.edu/search?view=catalog&amp;filter-coursestatus-Active=on&amp;q=BIOE%2060:%20Beyond%20Bitcoin:%20Applications%20of%20Distributed%20Trust&amp;academicYear=20202021" target="_blank" rel="noopener">Beyond Bitcoin</a>&nbsp;class. I’ve been doing that for the last four years, and in 2016 I got involved in a variety of projects to make it easy for patients and consumers to share sensitive data. This was a collaboration with a social network and that was my entry point to the world of secure multi-party computation and homomorphic encryption. Alan and I saw a need to make that technology much easier to use and to start using it for practical reasons as opposed to being a sort of academic oddity.</p>
+
+
+
+<h3 id="1be3">What are your hobbies?</h3>
+
+
+
+<h3 id="97e4">Alan (03:08):</h3>
+
+
+
+<p id="40da">Well, it’s all OMG these days. We actually quite enjoy reading white papers. Of course, it’s impossible to keep up with everything but definitely enjoy carving out some time to read what other folks are working on, pushing the boundaries of decentralization. I actually really enjoy putting together Lego sets as well. I’ve been doing that for many years. Love doing that with my kids, especially Star Wars sets. This is really a great way to focus the mind on something else other than work. I also do photography and poetry for fun too.</p>
+
+
+
+<h3 id="e274">Jan (03:54):</h3>
+
+
+
+<p id="0a3b">My two favorites are climbing mountains. I really like mountains and glaciers. In terms of other stuff, for many years I built autonomous fixed-wing drones. What I was interested to do there is basically get the fixed-wing drones to the point where I could just hand-launch them by throwing them in the air. Then I also build systems that didn’t have to land them on runways. So I basically added a parachute system. So when the drone overflew the right grid coordinate, it would use the parachute to land. That was a fun project. So in my living room right now, sometimes when I’m on Zooms, as background, I have the various fixed-wing drones I built. In case you’re ever on a zoom with me.</p>
+
+
+
+<h3 id="a652">How many developers have reached out to build on OMGX?</h3>
+
+
+
+<h3 id="70ee">Alan (05:08):</h3>
+
+
+
+<p id="de97">We’ve received dozens of projects inbound, exploring how to move over to OMGX. It really runs the spectrum. Obviously, a lot of them fall into the DeFi and NFT space. There are also wallet projects that we’re speaking with, a lot of these wallets see a lot of action on Layer 2 so they would like to add Layer 2 chains to their wallets in general. When&nbsp;<a href="https://www.omgx.network/omg-omgx-network-scaling-augmenting-ethereum-optimistic-rollups/" target="_blank" rel="noopener">we announced OMGX</a>, they would like to see what it would be like to work with us as well.</p>
+
+
+
+<h3 id="f274">How are developers incentivized to build on OMGX?</h3>
+
+
+
+<h3 id="0d05">Alan (05:53):</h3>
+
+
+
+<p id="df32">Well the high gas fees of Ethereum itself act as a pretty strong incentive for developers to move to layer 2s in general. As for OMGX specifically, our pitch to them is: this is not just about scaling Ethereum. Once you’re on OMGX, we’re also creating this amazing future for you. You’ll be able to tap into more advanced compute capabilities that are not available to you today. We also have plans to create an ecosystem fund to incentivize some of the early-stage projects who are just starting out but doing something really interesting. It’s going to take some time to put something like that together. That’s in our plans.</p>
+
+
+
+<h3 id="330e">How will fees be calculated on OMGX?</h3>
+
+
+
+<h3 id="6664">Jan (06:53):</h3>
+
+
+
+<p id="6a5d">Well, that’s a sort of longer answer. I’m not sure we really have the ability to delve into detail, but based on what we know and based on what we can tell, a realistic number is probably a 50 X saving compared to the mainchain. Numbers that are bandied about that are much larger than that, say 1000 X or 2000 X cost reduction, we are currently unable to recapitulate on how those numbers are arrived at. So we don’t see that. As best as we can tell, we’re looking at about 50 X cost reduction compared to the mainchain.</p>
+
+
+
+<h3 id="43c5">John (07:41):</h3>
+
+
+
+<p id="e5a6">Thanks for that and just to follow up. Does that mean that there could be a potential for that to improve over time?</p>
+
+
+
+<h3 id="5492">Jan (07:48):</h3>
+
+
+
+<p id="010b">Yes, absolutely. Part of that, without wasting people’s time on the details, part of has to do with the extent to which certain data elements can be compressed as they’re injected into the CTC on the L1. That’s easily imaginable to have another 2 X coming off of that, which would bring the total savings up to about 100 X. But in terms of our mainnet, that we’re working on, we’re looking at 50 X as we get started.</p>
+
+
+
+<h3 id="ba3e">Will there be a fee token on OMGX?</h3>
+
+
+
+<h3 id="4263">Alan (08:43):</h3>
+
+
+
+<p id="010e">Currently, on the testnet, the fee token is ETH because that’s the native token for&nbsp;<a href="https://optimism.io/" target="_blank" rel="noopener">Optimism</a>. Our plans are to support the OMG token as the fee token on OMGX. Ideally, we’d like to do both natively, but supporting two native tokens is going to require non-trivial engineering work. So we’re prioritizing supporting the OMG token as the fee token initially. The longer-term vision is to make it as easy as possible for OMGX to support multiple fee tokens or the popular ones.</p>
+
+
+
+<h3 id="42ca">What is the theoretical TPS for OMGX?</h3>
+
+
+
+<h3 id="9604">Jan (09:34):</h3>
+
+
+
+<p id="00fa">The 50 X number is also in the right ballpark here. Both for cost savings, and our TPS relative to L1, we’re talking about 50 X improvement.</p>
+
+
+
+<h3 id="b4dd">What kind of incentivized role do OMG stakers have?</h3>
+
+
+
+<h3 id="e0c2">Alan (09:59):</h3>
+
+
+
+<p id="ad42">To answer the question we need to understand the differences between OMGX and ETH2, where you have stakers. OMGX is not a proof-of-stake protocol, right? So the “stakers” on OMGX would not be performing the same kind of role as stakers on ETH2. From the get-go, we’re going to begin by offering opportunities for the community to participate in the liquidity pools that underpin the swap-based mechanism for moving funds between L1 and L2. It’s a form of liquidity staking and the stakers in these pools will receive a portion of the convenience fees that users pay into, using these features. That’s the initial plan for staking on OMGX, a form of liquidity staking. Over time, we’ll work on making various components of OMGX easier to run so that there’s broad community participation in the operation of the network, and operating these nodes will come with rewards.</p>
+
+
+
+<h3 id="00a1">Will there be any requirements for $OMG staking?</h3>
+
+
+
+<h3 id="6864">Jan (11:39):</h3>
+
+
+
+<p id="ca58">Just to provide context here. It is incredibly important for decentralized platforms and apps to have the property of being accessible to normal people with normal computers to normal wallets. If we end up with a system where only really wealthy people can participate and make more money, then we’ve failed. It is incredibly important to us to make sure that anyone can contribute to the system, and can also benefit from the system. The last thing we want is some absurdly high requirement to participate. That’s not only true for some kind of minimum ETH requirements, that also influences how we’re trying to design the code and also the deployment of the system. We want to make it as intelligible and as accessible to the largest number of people possible. That influences what we do on the technology side, but also influences how we design systems for people to get engaged and participate, and also benefit from the system. The simple answer here is that we will do absolutely everything we can to avoid any kind of significant barriers to entry, like very high requirements, or something like that.</p>
+
+
+
+<h3 id="3e7d">If you swap L2 to L2 cross-chain using Quasar, which L2 gets the LP fee?</h3>
+
+
+
+<h3 id="3599">Jan (13:29):</h3>
+
+
+
+<p id="8852">That’s a great question. First of all, Quasar was really designed for Plasma. It’s designed to go from Plasma to an EVM-compatible chain, but not the other way around. I think the spirit of this question is with the OMGX swap-based mechanism. We can move funds from L2 to L2 without going through L1. In terms of which side gets the LP fees. We will still need to work on that, but the spirit of the design of these mechanisms is to be fair. So if both sides are taking on risk, then both sides would need to be rewarded for it.</p>
+
+
+
+<h3 id="261a">Will there be cross-chain liquidity with other chains?</h3>
+
+
+
+<h3 id="b298">Alan (14:33):</h3>
+
+
+
+<p id="50b7">Our strategy is to build as many bridges as possible. The idea is to create the best user experience out there. I think users will want to have as much flexibility as possible to move their funds around wherever they want these funds to be and wherever their favorite projects happen to be running. As to who will have to build that connection, if the platforms are open and they’ve gone mainnet and anyone could deploy contracts on them, we can just deploy our swap-based movement contracts on both sides and enable these bridges.</p>
+
+
+
+<h3 id="72b2">Jan (15:17):</h3>
+
+
+
+<p id="03e4">In terms of building them. There’s really good news in the sense that if both L2s are EVM compatible, then once the code has been written for a bridge, then nothing prevents that same bridge from being used to bridge across many different L2s. So it’s not like a custom bridge has to be developed for every different L2 to L2. Once the code has been written it can be very readily deployed across many of the L2s. Assuming they are truly EVM compatible, much of the work really only needs to be done once.</p>
+
+
+
+<h3 id="c586">How will OMG Plasma be utilized going forward?</h3>
+
+
+
+<h3 id="20ae">Jan (16:06):</h3>
+
+
+
+<p id="9c43">Let me take the first stab at that. OMG Plasma has really important advantages and technical features that are currently unrivaled. For example, with OMG Plasma, in principle, we can do 64,000 transactions per block. Plasma has been out there for a while and that means we have considerably more trust in the performance of Plasma relative to solutions that simply haven’t been battle-tested. The way we’re thinking about Plasma right now is as one of two key choices that we want to offer to people. Because there’s no conflict between a plasma as architecture and OMGX, they’re complimentary. As a baseline, one of our engineering goals from the user perspective is to make it as easy as possible to select the correct technology for a particular transaction. From a wallet perspective, our design goal is when the user interacts with a wallet, that perhaps even on a per transaction basis, they’re able to pick and choose where they would like to operate. That of course means we need bridges that make it super easy to move back and forth from Plasma to OMGX and then OMGX to other places. This is not so much about telling people what they should do. This is about making it incredibly easy for people, as they interact with OMG in general, to choose whatever underlying platform they want for a particular transaction or for a particular type of operation.</p>
+
+
+
+<h3 id="1935">Wen OMGX Mainnet?</h3>
+
+
+
+<h3 id="e1bd">Jan (18:25):</h3>
+
+
+
+<p id="5f13">All of us are doing absolutely everything we can to have the mainnet launch as quickly as possible. However, it is important to make sure that everything works right. The important consideration here is not only OMGX as a technology, it also has to do with all the other things that need to work right. That’s on the deployment and on the CI/CD end and all the infrastructure that’s needed to support the entire system. So right now we’re spending a lot of time on the deployment side of the story, because we want the entire system to perform gracefully in the limit of a large number of transactions. The only way we can convince ourselves that the system is ready is to test it. We do not have a specific date. We’re trying to do this as quickly as possible, consistent with the system scaling up properly when it’s hammered by use, and also consistent with the system being safe. We’re working on a very aggressive timescale and we are strong believers that the best way to mature a technology, and the best way to test the technology, is to get it out in the open and have people use it. So what we’re not going to do is fiddle with it endlessly and try and make it perfect, and fiddle more and try to make it perfect, and delay, delay, delay. So we’re finding a balance between convincing ourselves that it does what we want it to do in the limit of a large number of transactions. But we also see great benefit in having the technology out there so people can use it and try it out. We are trying to be as aggressive here as we possibly can.</p>
+
+
+
+<h3 id="038a">What is the advantage of OMGX versus other scaling solutions?</h3>
+
+
+
+<h3 id="d094">Alan (21:21):</h3>
+
+
+
+<p id="a55b">That’s a great question and the broader question probably deserves its own talk comparing all the different approaches to scaling. But at a high level, first of all, why did we choose to go down this route of scaling Ethereum through building on Optimism? Because Optimism itself is a modified version of Ethereum, which makes it the approach that is easiest to stay in sync with Ethereum going forward, as Ethereum itself evolves. That forward compatibility, with as little engineering investment as possible, is important to us because it&#8217;s important to developers. Other approaches that require a much heavier engineering effort to stay in sync with Ethereum would necessarily mean that there will be a longer gap between changes in Ethereum itself, to those changes being emulated in these other L2 approaches.</p>
+
+
+
+<p id="abd0">Why would someone use OMGX versus Optimism? A number of reasons. First, we support Fast Exit out of the gate. The traditional seven-day exit window still exists. If you don’t want to pay the convenience fee and you’re willing to wait seven days to withdraw your funds, you can. But if you don’t want to wait, you can pay the convenience fees and withdraw your funds right away. We’ve designed that mechanism in such a way that it’s market-driven, namely, we’re not dependent on any one specific partner to fund these pools. It’s really up to the community and the market. If there’s demand for additional currency pairs for these swaps across the L1-L2 boundaries, the mechanism is there for a liquidity provider to step up and provide those swaps and make those available to the broader community.</p>
+
+
+
+<p id="3edc">Secondly, we are going to be enhancing OMGX with these off-chain compute capabilities that we’ll cover in later questions. Of course, other chains will have their own innovations as well, but this is something that is unique to us as far as we can tell. It’s important to enable these off-chain compute capabilities because they make it possible for smart contracts to tap into advances in computer science that have happened over the last two decades that non-smart contract developers have gotten used to. This speaks to the point that Jan brought up earlier. It’s important for us to broaden the participation of the community as much as possible. This means enabling as many developers to build on OMGX as we can.</p>
+
+
+
+<h3 id="404d">Optimism is said to have been delayed because it “requires the participation of other protocols, wallets, nodes, and explorers.” Why doesn’t OMGX have to do the same?</h3>
+
+
+
+<h3 id="d11f">Jan (24:57):</h3>
+
+
+
+<p id="cff6">Just to state the obvious, we are incredibly impressed with the engineering that the Optimism team has done. Their technology is the best as far as we can tell, which is why we are building on Optimism. In terms of the delays. We don’t have special insight there, so we can’t really comment. However, if you think about the participation of protocols, oracles, wallets, nodes, and explorers, that’s always going to be true. That’s a never-ending aspirational goal to have protocols, oracles, wallets, nodes, and explorers use your technology. So that’s going to be something that the Optimism team, and also OMGX, is going to be pursuing for weeks, months, and years. One way to make sure that all those parties participate is to have a mainnet up and running. Maybe it’s just a different perspective on how one engages the broader community. Our position is simply by having a mainnet out rapidly, that’s probably one of the better ways of ensuring broad engagement by protocols, oracles, wallets, and so forth.</p>
+
+
+
+<h3 id="84fa">Is OMG building any of its own dapps for OMGX? Will there be a dapp incubator?</h3>
+
+
+
+<h3 id="5e50">Alan (26:45):</h3>
+
+
+
+<p id="ed39">I love the question that you added at the end. Currently, we’re really focused on bringing as many projects to OMGX as possible, versus building our own. We wouldn’t rule anything out, but really the current focus is developer adoption. In terms of creating an incubator, that’s something that we might do down the road, but currently, there are so many developers that are hurting from high gas fees on the main chain. There’s such high demand for a scalable cost-effective solution. That’s our main focus right now.</p>
+
+
+
+<h3 id="baf9">It is said that OMGX is the only tokenized EVM-compatible L2. Why is this an advantage?</h3>
+
+
+
+<h3 id="e100">Alan (27:38):</h3>
+
+
+
+<p id="1982">We believe it’s important for the OMG community to see that the token has real use on this Network. The OMG token also gives us the ability to create tokenomics and incentive systems that are not dependent on ETH itself. It’s a layer of flexibility that we believe will be beneficial to OMG token holders.</p>
+
+
+
+<h3 id="8d2a">Do you see the evolution of OMGX beyond Ethereum, for example, Binance Smart Chain?</h3>
+
+
+
+<h3 id="8992">Alan (31:44):</h3>
+
+
+
+<p id="1427">Now that’s a very interesting question and certainly, we’ve noticed that Binance Smart Chain is having its own form of congestion. We wouldn’t rule that out. But the pain, definitely at this point, is much more severe on Ethereum. That’s our current focus. As to future plans, we will adapt to market conditions.</p>
+
+
+
+<h3 id="6d51">What is the long-term strategy for OMG?</h3>
+
+
+
+<h3 id="a9fe">Alan (33:22):</h3>
+
+
+
+<p id="bb2f">The long-term strategy for OMGX is to not just scale Ethereum, but also augment Ethereum. What we mean by that is giving smart contract developers the ability to invoke algorithms off-chain and incorporate the results from those algorithms into their smart contracts. This opens up the possibilities of using things like machine learning classifiers and multi-factor payoff models, or lending models that have been trained in the “real world”, and take advantage of them in smart contracts.</p>
+
+
+
+<h3 id="b6cb">Will Varna DEX run on OMGX?</h3>
+
+
+
+<h3 id="423a">Alan (34:13):</h3>
+
+
+
+<p id="5734">We need a little bit more time to flesh out the roadmap for&nbsp;<a href="https://omg.network/bigger-picture-varna-hashcast-quasar/" target="_blank" rel="noopener">Varna</a>&nbsp;because we’ve been focused on OMGX. We have built Varna for OMG Plasma to take advantage of some of plasma’s unique capabilities such as native atomic swaps. It is certainly possible to implement Varna on OMGX as well, so we wouldn’t rule that out. Our team’s focus has been on OMGX to get to this point where we can launch a public testnet as soon as possible and drive developer adoption. That’s the current focus. Varna certainly, once the dust settles on OMGX, then we’ll be able to really flesh out the longer-term roadmap for Varna and have more specific answers.</p>
+
+
+
+<h3 id="a6f8">What does the timeline look for this product?</h3>
+
+
+
+<h3 id="2a03">Alan (35:44):</h3>
+
+
+
+<p id="c0f8">I think this is what Jan addressed a little earlier. We don’t have a specific date for going mainnet yet. Our approach is to launch a mainnet as soon as we can. We need to make sure that the whole infrastructure behind it is in place to be able to meet demands and be able to scale with the demand. As Jan mentioned earlier, what we’re not going to do is keep fiddling with it until it’s perfect. We’re going to move as quickly as we can, but also make sure that any funds that are deposited on OMGX are going to be safe. That’s a key priority for us.</p>
+
+
+
+<h3 id="64cc">Will fast exit liquidity pools be siloed?</h3>
+
+
+
+<h3 id="7c14">Jan (37:23):</h3>
+
+
+
+<p id="aaaf">There are two parts to that. There’s the underlying technical infrastructure. Then there is the user experience as they use the wallet. There’s a lot we can do at the level of the wallet to make the user experience as seamless as possible. For example, you can imagine a system where you have a slider bar that goes from 0% to 100%. With the slider bar, a user could indicate their preference about how they want to allocate funds across multiple liquidity pools. That’s more of a UI question. From an underlying smart contract perspective, there do need to be well-defined liquidity pools that live on the different chains or L2s. There’s no obvious way to just have one liquidity pool. There does have to be specifically allocated pools on all the chains that want to use that type of bridge. But then again, from a wallet UI perspective, we can certainly try to make that as seamless as possible.</p>
+
+
+
+<h3 id="0815">Are there any projects that you’re willing to fund that are testing the public testnet?</h3>
+
+
+
+<h3 id="d52c">Alan (39:21):</h3>
+
+
+
+<p id="a7b5">Unfortunately, we’re not able to speak to that until the projects themselves are ready to launch. We don’t want to take any thunder out of their announcement. So unfortunately we won’t be able to comment on that.</p>
+
+
+
+<h3 id="2efe">What is the progress on Varna DEX?</h3>
+
+
+
+<h3 id="7a66">Alan (40:11):</h3>
+
+
+
+<p id="8b50">The UI/UX for Varna takes work and I’m not trying to diminish the work of the team. But relative to spinning up liquidity and designing a tokenomic model that makes sense to offer the proper levels of incentives for liquidity providers and users, that takes just as much work, if not more. Frankly, we haven’t had time to work on the design of tokenomics for Varna yet because we’ve been focused on OMGX. That’s where things stand. We’re still working on UX design, iterating through different concepts with target users and active crypto traders. In terms of the launch timeline for Varna, we don’t have something set in the calendar yet. We’ll keep the community posted as we have more visibility.</p>
+
+
+
+<h3 id="fbeb">Jan (41:30):</h3>
+
+
+
+<p id="3b30">To be a little bit more specific, there are really three parts to Varna. The first part is the UI. That’s the stuff you see when you interact with Varna. The second part is the privacy-preserving matching. What’s going on there, the goal is to allow two parties with shared attributes to efficiently discover one another. If you like pistachio ice cream and I like pistachio ice cream, the goal is to identify those shared attributes. That’s the matching layer. Then there’s a third part which is the settlement layer. Once two parties with shared attributes have discovered one another and they want to transact, how do they do so? For Varna, as it’s built on Plasma, the answer to that third question is through atomic swap. Both those last two pieces, the matching part, and the atomic swap part have been built and work. The last remaining major hurdle is to get the UI to the point where it is really easy to use and intelligible. There is now a dedicated group of crypto traders and active users of DeFi exchanges. They now have the lead for designing the new UI. These are people who use DEXs daily. They are in the best position to figure out what the UI should actually look like. Personally, I’m very happy about that because — from an engineering perspective — we can spend weeks and weeks and weeks trying to imagine what experienced crypto traders are looking for, but there’s nothing like having actual crypto traders design the front end. That’s something I’m personally very happy about, that we now have people designing the front end to actually use that type of product every day.</p>
+
+
+
+<h3 id="8adb">Has the staking model been updated to fix the single-operator system?</h3>
+
+
+
+<h3 id="c710">Jan (44:50):</h3>
+
+
+
+<p id="8661">That’s a really, really important point. If we’re serious about censorship resistance. If we’re serious about distributed anything. It’s got to have the property of actually being distributed. So whenever we have to resort to centralized anything, then that’s an immediate problem that is very much on our radar. There are very practical issues in terms of what we can decentralize first and most readily. Our priority right now is building a system where a large number of people are incentivized to run verifiers and fraud provers because that’s the very first thing. If we have a system with a centralized sequencer and no one is verifying things, and no one is running a fraud prover, then we are in a place we don’t want to be at all. The zero-order thing right now is to make it very easy for a large number of people to run verifiers that pay close attention to what the sequencer is doing and having fraud provers. That’s step one. Step two is then to start relaxing constraints on the unitary sequencer. There’s some very sort of practical scaling issues that arise when relaxing the single sequencer constraint. So the immediate goal is to make it as easy as possible for a large number of people to run validators or verifiers, and also run fraud provers.</p>
+
+
+
+<h3 id="6ea8">What’s the difference between the OMGX platform and what Optimism is working on?</h3>
+
+
+
+<h3 id="61a9">Alan (47:36):</h3>
+
+
+
+<p id="1c1d">In terms of differences between OMGX and Optimism, one is our fast-exit mechanism available from day one is swap-based, community-driven, and market-based, meaning the market will be able to add additional currency pairs to swap between the L1/L2 boundary. It is not dictated by us, or by any one project that we partner with. Another key difference is, going forward, we are going to be adding the ability for smart contract developers to take advantage of more complex algorithms off-chain and integrate those results back into the smart contracts.</p>
+
+
+
+<h3 id="6f25">Jan (48:28):</h3>
+
+
+
+<p id="b6f0">One additional thing to add, and I’m speaking to everyone on this call right now. We are not some little island in some lab in some basement all by ourselves trying to develop these technologies. We are extremely eager to have the community participate. We are extremely eager to get feedback. We’re extremely eager to get questions. We are extremely eager to get issues added to the Github. So just personally speaking, and I’m sure this is true for Alan and everyone else on our side. Don’t be scared to ask questions. Don’t be scared to tell us what we need to do differently, because a large part of why we’re actually doing this reflects our belief in a decentralized way of doing things. That fundamentally involves this being a distributed community project. So to make that absolutely clear. If you have questions, if you have suggestions, if you want to get engaged, this is something that’s incredibly important to us. Every single person who comes to us and says: “Hey, you guys are complete fools. You should actually be doing it this other way.” We love that kind of feedback. I’d like to encourage every single person on this call. If you have ideas, if you want to get engaged, if you want to help us in any way, please let us know. Right away! This is something we are very excited and happy about. Please do that as much as you can, don’t be scared.</p>
+
+
+
+<h3 id="4236">Could you provide more details about how your swap-based mechanism is different from Optimism? You also said something about doing compute off-chain and then connecting it to L2. Could you explain?</h3>
+
+
+
+<h3 id="f3e5">Alan (51:28):</h3>
+
+
+
+<p id="895b">If you’re familiar with AMM DEXs, what we’ve implemented to enable L1 to L2 movement is similar to that model. Optimism will have their own way of dealing with the exit window, the challenge period. They’ve spoken about that. We believe our model is more community-driven and market-driven, and it enables broad-based participation. You’re able to participate as a liquidity provider and earn part of the fees. We think that’s beneficial to the community. I’ll let Jan speak to the off-chain compute question.</p>
+
+
+
+<h3 id="2042">Jan (52:22):</h3>
+
+
+
+<p id="5a86">Sure. In terms of the swap, as Alan said, the underlying principle is 100% equivalent to what, for example, Uniswap does or Sushi does where you’re able to swap from one token to another. The only difference here is that the swap pair is something like ETH and oETH. So instead of swapping tokens on L1, what you’re doing is swapping across a chain boundary. But the underlying equations are the same. The general ideas are the same. It’s just that you’re swapping across that boundary. In terms of the off-chain compute. That’s probably a longer conversation, but the central idea is that right now there’s a very significant gap between the types of computations you can do on L1 versus the types of computations that people are used to doing these days. Insurance companies, banks, normal businesses, they’re all used to being able to do very sophisticated computations at specific endpoints. They don’t even think about that. It’s only when they get exposed to the blockchain world that some have to get used to extremely limited, extremely slow, and extremely costly compute. Typically that surprises them because they take it for granted that they should be able to do very sophisticated things at very, very low cost and very quickly.</p>
+
+
+
+<p id="5fc5">From a strategic perspective, if that gap continues to exist, that poses a very significant barrier to entry. If I’m a normal bank, if I’m a normal insurance company or if I’m a normal business and I say, “Oh, I’m interested in using a distributed approach.” And then I tell you, you know, here are all the things you can’t do. That’s a really big barrier to future growth of normal companies operating on blockchains. That’s why we think it’s very important to make it as easy as possible for traditional businesses to take advantage of existing compute infrastructure from smart contracts that they deploy. It’s not necessarily about supporting new types of compute, it’s to make it as easy as possible for smart contracts to trigger off-chain compute at established endpoints that are quoted and deployed on many many different platforms. For practical purposes, we’re focusing on AWS Lambda. So the zero-order goal is to make it possible for daemons that are watching smart contract interactions to trigger AWS Lambda events. Then to have the compute results from those events be pushed back into smart contracts at a later time.</p>
+
+
+
+<h3 id="fcf3">What is the main thing OMG is doing, that Polygon is not doing, to be called a Layer 2?</h3>
+
+
+
+<h3 id="d343">Alan (56:58):</h3>
+
+
+
+<p id="b0e4">One of the key distinctions for a Layer 2 is that it derives security from Ethereum itself and therefore we don’t need to run our own suite of validators because we’re not an independent side chain or proof of stake protocol. Everything is secured by Ethereum. Now there’s no free lunch in a world. We need to pay Ethereum for that security, but that’s the trade. I can’t comment on Polygon. They would need you to speak to their own architecture. But if you look at how low their fees are and the fact that they have their own set of validators, it’s a fundamentally different architecture altogether.</p>
+
+
+
+<h3 id="4d03">What is the token going to be used for on this platform? Can contracts on OMGX call other contracts?</h3>
+
+
+
+<h3 id="0a61">Alan (58:19):</h3>
+
+
+
+<p id="379d">We are working on the ability to support using OMG tokens to pay for gas on OMGX. Currently, it is still ETH and it takes work to make that change, but we’re working on it. In terms of whether you can call other contracts. Absolutely! OMGX is just a modified version of Ethereum. What you can do on L1, you can do on L2 as well. There are just a few opcodes that are not readily supported because those opcodes don’t have the equivalent concept on L2. But those changes are minor and they are covered by the&nbsp;<a href="https://github.com/omgnetwork/omgx_contracts-analyzer" target="_blank" rel="noopener">porting guide</a>&nbsp;that we have published on Github.</p>
+
+
+
+<h3 id="3ea7">Where do you think the original team’s development went wrong and how have you course-corrected?</h3>
+
+
+
+<h3 id="f0a8">Alan (60:01):</h3>
+
+
+
+<p id="c7d6">No one wants to bad-mouth anybody and neither do we. It’s also easy to critique looking backward with the benefits of hindsight. I think where Jan and I, and our team, came from and how we formulate strategies is really looking at where the demand is today and where we think the demand is going to be tomorrow. That’s how we eventually, after some exploration, landed on the strategy of OMGX working with Optimism, building on Optimism. It was really about being pragmatic and looking at what developers want and build something that people want. It comes down to that one principle: we’re going to build something that people want and not trying to push something out there and hope that it is going to get adopted.</p>
+
+
+
+<h3 id="93d2">How excited are you for the future of OMG?</h3>
+
+
+
+<h3 id="13b4">Alan (61:23):</h3>
+
+
+
+<p id="2db9">Well, we’re so excited that this is all we’re working on these days.</p>
+
+
+
+<h3 id="e478">Jan (61:28):</h3>
+
+
+
+<p id="1016">To add to that, we are super excited. I’ve now been through three crypto winters. I’ve been in the space for a while. Based on what I hear from my friends in other parts of the Internet world, in other parts of the “normal business” world, I am more excited than I’ve ever been for the overall possibility or overall opportunity for the distributed world. I think the L2s are a really really critical part of that. It’s almost like a log jam has been broken or a door has been opened. Now finally, all the pieces are coming together that allow us to build on decentralized apps and exchanges that work at scale. We have a very clear technology path to that and the possibility of building something that a very large number of people will be able to use — and will be easy to use — is just incredibly exciting to us. We’re totally in love with this, at least speaking for the people I work closely with.</p>
+
+
+
+<h3 id="18dd">Are things like the Ledger and Bitfinex integration back on track?</h3>
+
+
+
+<h3 id="9ad2">Alan (63:37):</h3>
+
+
+
+<p id="d2c1">Certainly, they are on the radar, but we are really focused on what users are asking for and where developers are really hurting from high gas fees. Those are kind of the current focus for our team in helping them move over to OMGX. We welcome any and all exchange integrations, but we have to prioritize. Helping popular DeFi projects come on board. Helping developers that are hurting from high gas fees to take advantage of OMGX and grow their user base and offer lower gas fees to their users. These things are top of mind for us.</p>
+
+
+
+<h3 id="f39d">Is it possible to scale Tether on any exchange like Coinbase or any communication with these big exchanges?</h3>
+
+
+
+<h3 id="fc7c">Alan (65:02):</h3>
+
+
+
+<p id="2b28">Thank you. Yes, there are a lot of names being thrown around. The key thing to remember right now is we have launched a new Layer 2 scaling solution called OMGX. It’s EVM compatible. If you have a smart contract already deployed on Ethereum but you don’t like the gas fees that you, or your users, are paying, simply move your smart contracts to OMGX and life will be so much better. That’s the key item to remember.</p>
+
+
+
+<h3 id="f956">Do you foresee projects going live on OMGX on Day One?</h3>
+
+
+
+<h3 id="9fcd">Alan (67:01):</h3>
+
+
+
+<p id="269e">Yes, we do. Absolutely. The question is who, and how many. We don’t have specific numbers yet, but absolutely we’ll have live projects on mainnet when we launch.</p>
+
+
+
+<h3 id="1556">Alan, Jan, do you have any closing words for the community?</h3>
+
+
+
+<h3 id="b39a">Alan (67:34):</h3>
+
+
+
+<p id="aff7">Just want to thank the community for the enthusiasm and the support over the years. Especially now it is critical. We’d love to hear feedback, please help spread the word. Let us know of any projects who are hurting from high gas fees on Ethereum. If they’re looking for solutions, we’re here to help. We have a dedicated team to help them migrate to Layer 2. It takes very little work. So thanks again for your support.</p>
+
+
+
+<h3 id="131c">John (68:02):</h3>
+
+
+
+<p id="e03a">Jan, any closing remarks for the community?</p>
+
+
+
+<h3 id="4f9e">Jan (68:06):</h3>
+
+
+
+<p id="1b69">To echo Alan’s point. It’s very, very important to us to build truly distributed technology and that involves as much input as possible from the community. Certainly. If there’s something you feel that needs to be built, if there’s something you feel that needs to be reemphasized, if you have suggestions, there are lots of ways for you to provide input.</p>
+
+
+
+<p id="ca3c">We really love hearing from you. It’s one of the most exciting things possible because otherwise, we feel like we’re a little bit in our own little world. We really look forward to input and help and ideas, suggestions, criticisms. Anything you all have, just let us know right away. We really, really like hearing from you.</p>
+
+
+
+<h3 id="7e72">John (69:02):</h3>
+
+
+
+<p id="a3fb">To follow that in closing. I think there’s something to be said about addressing adversity in the way that Alan and Jan do, versus other projects that we see on the GBV side to where people did the kind of natural response to get defensive. Whereas Alan and Jan had been like, we welcome constructive criticism. That being said, thank you to everyone who joined again. We’ll close now. This will be available online after this event. And like Alan and Jan said, if you have any questions or concerns, feel free to reach out. Thanks again, everyone who participated, and thanks especially to our speakers. Good day. Good night. Good morning, everyone.</p>
+
+
+
+<h3 id="ad98">Jan &amp; Alan (69:40):</h3>
+
+
+
+<p id="0f8a">Thank you. Good morning. Take care.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Enya and OMG Network Announce Partnership With Web3API</title>
+		<link>./../enya-and-omg-network-announce-partnership-with-web3api/index.html</link>
+		
+		<dc:creator><![CDATA[Nebali]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 13:06:00 +0000</pubDate>
+				<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">./../index.html?p=1644</guid>
+
+					<description><![CDATA[Integration will provide an enhanced developer experience building with OMGX Enya, a leading provider of decentralized privacy solutions, in partnership with&#160;OMG Network, a pioneer in Ethereum scaling development are thrilled to announce their partnership with&#160;Web3API, a developer toolchain that makes it easy to integrate Web3 protocols into applications from any programming language. Web3API simplifies the construction of decentralized apps (dApps) ... <div><a href="./../enya-and-omg-network-announce-partnership-with-web3api/index.html" class="more-link">Read More</a></div>]]></description>
+										<content:encoded><![CDATA[
+<h3 id="e0e2">Integration will provide an enhanced developer experience building with OMGX</h3>
+
+
+
+<p id="f010"><a href="https://www.enya.ai/" target="_blank" rel="noopener">Enya</a>, a leading provider of decentralized privacy solutions, in partnership with&nbsp;<a href="https://omg.network/" target="_blank" rel="noopener">OMG Network</a>, a pioneer in Ethereum scaling development are thrilled to announce their partnership with&nbsp;<a href="https://web3api.dev/#/" target="_blank" rel="noopener">Web3API</a>, a developer toolchain that makes it easy to integrate Web3 protocols into applications from any programming language. Web3API simplifies the construction of decentralized apps (dApps) and enables more developers to build applications quickly and efficiently.</p>
+
+
+
+<p id="d0be">This partnership represents Enya’s mission to provide its developers with the best tools to seamlessly and easily build with&nbsp;<a href="https://omgx.network/" target="_blank" rel="noopener">OMGX</a>. Launched by Enya and OMG Network, OMGX is a Layer 2 platform that supports Ethereum Virtual Machine (EVM) compatible smart contracts, token staking and streamlined cross-chain liquidity.</p>
+
+
+
+<p id="1bca">“Following our recent announcement of the OMGX public testnet, we’re excited to collaborate with Web3API to pave the way for a more inclusive Ethereum ecosystem — leveling the playing field for all developers. Web3API will take OMGX to new heights by enabling applications to interact with OMGX through any programming language using simple GraphQL queries and eliminating the need for client-side SDKs,” says&nbsp;<a href="https://www.linkedin.com/in/alanchiu/" target="_blank" rel="noopener">Alan Chiu, Founder and CEO</a>&nbsp;at Enya. “We look forward to helping steward the development of the Web3API standard especially in optimizing the developer experience with Ethereum Layer 2 scaling solutions.</p>
+
+
+
+<p id="f9fb">Enya and OMG Network will be building Web3API modules for querying and interacting with OMGX, with the goal of fostering a vibrant ecosystem of applications around OMGX that offer a compelling and affordable user experience.</p>
+
+
+
+<p id="f2ed">“We’re proud to welcome our newest partners, Enya and OMG Network, who will be pivotal in making Web3 protocols universally accessible, helping developers build more easily on OMGX and other Ethereum layer 2 scaling platforms. We are excited for this strategic partnership and the ways in which we can accelerate access and adoption of our turnkey solutions for building dApps,” says Jordan Ellis, one of the original Web3API developers.</p>
+
+
+
+<p id="0231">To learn more, visit&nbsp;<a href="https://www.enya.ai/" target="_blank" rel="noopener">Enya.ai</a>&nbsp;or follow them on&nbsp;<a href="https://twitter.com/enyaai" target="_blank" rel="noopener">Twitter</a>&nbsp;and&nbsp;<a href="https://www.linkedin.com/company/enyaai/#" target="_blank" rel="noopener">LinkedIn</a>. To build on the new OMGX platform, visit&nbsp;<a href="http://omg.network/" target="_blank" rel="noopener">omgx.network</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OMGX: Scaling and Augmenting Ethereum</title>
+		<link>./../omgx-scaling-and-augmenting-ethereum/index.html</link>
+		
+		<dc:creator><![CDATA[Nebali]]></dc:creator>
+		<pubDate>Sat, 12 Jun 2021 13:05:14 +0000</pubDate>
+				<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">./../index.html?p=1642</guid>
+
+					<description><![CDATA[<div class="members-access-error">&#160;</p>
+<p style="text-align: center">You must hold a guild token to view this content.</p>
+<p style="text-align: center">
+<button class='ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large' type='button' name='metamask'>
+	Connect with OMGX
+</button></p>
+<p style="text-align: center">To acquire a guild token, you must first join the <a href="https://join.omg.dev/discord">OMG Discord server.</a></p>
+</div>
+]]></description>
+										<content:encoded><![CDATA[<div class="members-access-error">&nbsp;</p>
+<p style="text-align: center">You must hold a guild token to view this content.</p>
+<p style="text-align: center">
+<button class='ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large' type='button' name='metamask'>
+	Connect with OMGX
+</button></p>
+<p style="text-align: center">To acquire a guild token, you must first join the <a href="https://join.omg.dev/discord">OMG Discord server.</a></p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OMG Labs: Engineering Update #03 (The Road Ahead For Layer-2s)</title>
+		<link>./../omg-labs-engineering-update-03/index.html</link>
+		
+		<dc:creator><![CDATA[Nebali]]></dc:creator>
+		<pubDate>Tue, 13 Apr 2021 06:48:15 +0000</pubDate>
+				<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">./../index.html?p=1595</guid>
+
+					<description><![CDATA[<div class="members-access-error">&#160;</p>
+<p style="text-align: center">You must hold a guild token to view this content.</p>
+<p style="text-align: center">
+<button class='ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large' type='button' name='metamask'>
+	Connect with OMGX
+</button></p>
+<p style="text-align: center">To acquire a guild token, you must first join the <a href="https://join.omg.dev/discord">OMG Discord server.</a></p>
+</div>
+]]></description>
+										<content:encoded><![CDATA[<div class="members-access-error">&nbsp;</p>
+<p style="text-align: center">You must hold a guild token to view this content.</p>
+<p style="text-align: center">
+<button class='ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large' type='button' name='metamask'>
+	Connect with OMGX
+</button></p>
+<p style="text-align: center">To acquire a guild token, you must first join the <a href="https://join.omg.dev/discord">OMG Discord server.</a></p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>The Bigger Picture: Varna, Hashcast, and Quasar</title>
+		<link>./../the-bigger-picture-varna-hashcast-and-quasar/index.html</link>
+		
+		<dc:creator><![CDATA[Nebali]]></dc:creator>
+		<pubDate>Wed, 31 Mar 2021 09:32:58 +0000</pubDate>
+				<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">./../index.html?p=1562</guid>
+
+					<description><![CDATA[<div class="members-access-error">&#160;</p>
+<p style="text-align: center">You must hold a guild token to view this content.</p>
+<p style="text-align: center">
+<button class='ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large' type='button' name='metamask'>
+	Connect with OMGX
+</button></p>
+<p style="text-align: center">To acquire a guild token, you must first join the <a href="https://join.omg.dev/discord">OMG Discord server.</a></p>
+</div>
+]]></description>
+										<content:encoded><![CDATA[<div class="members-access-error">&nbsp;</p>
+<p style="text-align: center">You must hold a guild token to view this content.</p>
+<p style="text-align: center">
+<button class='ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large' type='button' name='metamask'>
+	Connect with OMGX
+</button></p>
+<p style="text-align: center">To acquire a guild token, you must first join the <a href="https://join.omg.dev/discord">OMG Discord server.</a></p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>An even higher-level view of Layer-2</title>
+		<link>./../an-even-higher-level-view-of-layer-2/index.html</link>
+		
+		<dc:creator><![CDATA[Nebali]]></dc:creator>
+		<pubDate>Tue, 23 Mar 2021 02:09:37 +0000</pubDate>
+				<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">./../index.html?p=1500</guid>
+
+					<description><![CDATA[<div class="members-access-error">&#160;</p>
+<p style="text-align: center">You must hold a guild token to view this content.</p>
+<p style="text-align: center">
+<button class='ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large' type='button' name='metamask'>
+	Connect with OMGX
+</button></p>
+<p style="text-align: center">To acquire a guild token, you must first join the <a href="https://join.omg.dev/discord">OMG Discord server.</a></p>
+</div>
+]]></description>
+										<content:encoded><![CDATA[<div class="members-access-error">&nbsp;</p>
+<p style="text-align: center">You must hold a guild token to view this content.</p>
+<p style="text-align: center">
+<button class='ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large' type='button' name='metamask'>
+	Connect with OMGX
+</button></p>
+<p style="text-align: center">To acquire a guild token, you must first join the <a href="https://join.omg.dev/discord">OMG Discord server.</a></p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>OMG Labs: Engineering Update #02</title>
+		<link>./../omg-labs-engineering-update-02/index.html</link>
+					<comments>./../omg-labs-engineering-update-02/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[Nebali]]></dc:creator>
+		<pubDate>Fri, 19 Mar 2021 08:18:13 +0000</pubDate>
+				<category><![CDATA[Guilds]]></category>
+		<guid isPermaLink="false">./../index.html?p=1472</guid>
+
+					<description><![CDATA[<div class="members-access-error">&#160;</p>
+<p style="text-align: center">You must hold a guild token to view this content.</p>
+<p style="text-align: center">
+<button class='ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large' type='button' name='metamask'>
+	Connect with OMGX
+</button></p>
+<p style="text-align: center">To acquire a guild token, you must first join the <a href="https://join.omg.dev/discord">OMG Discord server.</a></p>
+</div>
+]]></description>
+										<content:encoded><![CDATA[<div class="members-access-error">&nbsp;</p>
+<p style="text-align: center">You must hold a guild token to view this content.</p>
+<p style="text-align: center">
+<button class='ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large' type='button' name='metamask'>
+	Connect with OMGX
+</button></p>
+<p style="text-align: center">To acquire a guild token, you must first join the <a href="https://join.omg.dev/discord">OMG Discord server.</a></p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../omg-labs-engineering-update-02/feed/index.html</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ELI5: OMG Labs Engineering Update</title>
+		<link>./../eli5-omg-labs-engineering-update/index.html</link>
+					<comments>./../eli5-omg-labs-engineering-update/index.html#comments</comments>
+		
+		<dc:creator><![CDATA[txh]]></dc:creator>
+		<pubDate>Wed, 03 Mar 2021 13:42:20 +0000</pubDate>
+				<category><![CDATA[ELI5]]></category>
+		<guid isPermaLink="false">./../index.html?p=1381</guid>
+
+					<description><![CDATA[<div class="members-access-error">
+<p>&#160;</p>
+<p style="text-align: center">You must hold the writer&#8217;s token to view this content.</p>
+<p style="text-align: center">To claim bounties, log in to the <a title="build.OMG Bounty Board" href="https://app.clickup.com/login" target="_blank" rel="noopener">bounty board</a>.</p>
+</div>
+]]></description>
+										<content:encoded><![CDATA[<div class="members-access-error">
+<p>&nbsp;</p>
+<p style="text-align: center">You must hold the writer&#8217;s token to view this content.</p>
+<p style="text-align: center">To claim bounties, log in to the <a title="build.OMG Bounty Board" href="https://app.clickup.com/login" target="_blank" rel="noopener">bounty board</a>.</p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../eli5-omg-labs-engineering-update/feed/index.html</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Nose</title>
+		<link>./../nose/index.html</link>
+		
+		<dc:creator><![CDATA[Nebali]]></dc:creator>
+		<pubDate>Thu, 11 Feb 2021 07:23:55 +0000</pubDate>
+				<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">./../index.html?p=884</guid>
+
+					<description><![CDATA[<div class="members-access-error">&#160;</p>
+<p style="text-align: center">You must hold a guild token to view this content.</p>
+<p style="text-align: center">
+<button class='ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large' type='button' name='metamask'>
+	Connect with OMGX
+</button></p>
+<p style="text-align: center">To acquire a guild token, you must first join the <a href="https://join.omg.dev/discord">OMG Discord server.</a></p>
+</div>
+]]></description>
+										<content:encoded><![CDATA[<div class="members-access-error">&nbsp;</p>
+<p style="text-align: center">You must hold a guild token to view this content.</p>
+<p style="text-align: center">
+<button class='ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large' type='button' name='metamask'>
+	Connect with OMGX
+</button></p>
+<p style="text-align: center">To acquire a guild token, you must first join the <a href="https://join.omg.dev/discord">OMG Discord server.</a></p>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Writer&#8217;s Bounty 01</title>
+		<link>./../writers-bounty-review-article/index.html</link>
+					<comments>./../writers-bounty-review-article/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[Nebali]]></dc:creator>
+		<pubDate>Wed, 03 Feb 2021 05:00:19 +0000</pubDate>
+				<category><![CDATA[Spotlight]]></category>
+		<guid isPermaLink="false">./../omg-network-inblock2019/index.html</guid>
+
+					<description><![CDATA[<div class="members-access-error">&#160;</p>
+<p style="text-align: center">You must hold a guild token to view this content.</p>
+<p style="text-align: center">
+<button class='ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large' type='button' name='metamask'>
+	Connect with OMGX
+</button></p>
+<p style="text-align: center">To acquire a guild token, you must first join the <a href="https://join.omg.dev/discord">OMG Discord server.</a></p>
+</div>
+]]></description>
+										<content:encoded><![CDATA[<div class="members-access-error">&nbsp;</p>
+<p style="text-align: center">You must hold a guild token to view this content.</p>
+<p style="text-align: center">
+<button class='ethpress-metamask-login-button ethpress-button ethpress-button-secondary ethpress-button-large' type='button' name='metamask'>
+	Connect with OMGX
+</button></p>
+<p style="text-align: center">To acquire a guild token, you must first join the <a href="https://join.omg.dev/discord">OMG Discord server.</a></p>
+</div>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../writers-bounty-review-article/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
